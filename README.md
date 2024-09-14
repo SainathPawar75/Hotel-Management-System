@@ -1,7 +1,7 @@
 # Restaurant Management System
 
 ## Overview
-This is a Windows application developed using C# for managing restaurant operations.
+Developed a Restaurant Management System (RMS) using C#, designed to streamline restaurant operations. The system integrates functionalities for managing table reservations, order processing, menu management, and billing
 
 ## Features
 - Table Reservations & Order Processing
@@ -15,8 +15,4 @@ This is a Windows application developed using C# for managing restaurant operati
 - Visual Studio
 - Server Management Studio (SSMS)
 
-## Installation
-Instructions for setting up the project on your local machine.
 
-## Usage
-How to use the application once it’s installed.
