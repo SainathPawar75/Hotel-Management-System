@@ -16,3 +16,4 @@ Developed a Restaurant Management System (RMS) using C#, designed to streamline 
 - Server Management Studio (SSMS)
 
 
+<img width="648" alt="image" src="https://github.com/user-attachments/assets/608a0b3a-d80f-4f91-b60c-f146d05b9f6e">
